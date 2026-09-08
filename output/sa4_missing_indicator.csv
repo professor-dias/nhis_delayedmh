@@ -1,0 +1,32 @@
+Variable,OR,CI,p
+SA4: Missing Indicator (NA covariates coded as 'Missing' category),,,
+"n = 109,256",,,
+,,,
+Age: 35–49 (ref: 18–34),0.69,"[0.64, 0.74]",< .001
+Age: 50–64,0.38,"[0.35, 0.42]",< .001
+Age: 65+,0.15,"[0.13, 0.17]",< .001
+Age: Missing,0.6,"[0.26, 1.39]",0.234
+Sex: Female (ref: Male),1.89,"[1.77, 2.02]",< .001
+Sex: Missing,0.83,"[0.2, 3.43]",0.796
+Race: Hispanic (ref: NH White),0.82,"[0.75, 0.9]",< .001
+Race: NH Black,0.89,"[0.8, 1]",0.049
+Race: NH Asian,0.52,"[0.44, 0.6]",< .001
+Race: NH AIAN,0.88,"[0.68, 1.15]",0.350
+Race: NH Other/Multiracial,1.23,"[0.98, 1.53]",0.073
+Race: Missing,0.0,"[0, 0]",< .001
+Education: < HS (ref: HS/GED),0.76,"[0.65, 0.89]",< .001
+Education: Some College / Assoc.,1.36,"[1.25, 1.48]",< .001
+Education: Bachelor’s,1.63,"[1.49, 1.79]",< .001
+Education: Graduate,1.52,"[1.37, 1.69]",< .001
+Education: Missing,2.15,"[1.39, 3.34]",< .001
+Orientation: Gay/Lesbian (ref: Straight),1.85,"[1.57, 2.18]",< .001
+Orientation: Bisexual,3.29,"[2.94, 3.68]",< .001
+Orientation: Queer/Questioning,2.69,"[2.28, 3.17]",< .001
+Orientation: Missing,1.21,"[0.98, 1.49]",0.072
+Insurance: Uninsured (ref: Insured),2.48,"[2.25, 2.72]",< .001
+Insurance: Missing,0.98,"[0.52, 1.85]",0.954
+Year: 2021 (ref: 2020),0.95,"[0.85, 1.06]",0.331
+Year: 2022,1.14,"[1.03, 1.28]",0.014
+Year: 2023,1.35,"[1.21, 1.5]",< .001
+Year: 2024,1.41,"[1.27, 1.56]",< .001
+,,,

@@ -1,0 +1,26 @@
+Variable,OR,CI,p
+SA6: Alternative Race/Ethnicity Variable (HISPALLP_A — NCHS pre-built),,,
+"n = 106,152",,,
+,,,
+Age: 35–49 (ref: 18–34),0.7,"[0.65, 0.75]",< .001
+Age: 50–64,0.38,"[0.35, 0.41]",< .001
+Age: 65+,0.15,"[0.13, 0.17]",< .001
+Sex: Female (ref: Male),1.92,"[1.79, 2.05]",< .001
+Race: Hispanic (ref: NH White),0.82,"[0.74, 0.9]",< .001
+Race: NH Black,0.88,"[0.79, 0.99]",0.035
+Race: NH Asian,0.51,"[0.43, 0.6]",< .001
+Race: NH AIAN,0.89,"[0.68, 1.16]",0.400
+Race: NH Other/Multiracial,1.26,"[1.01, 1.58]",0.042
+Education: < HS (ref: HS/GED),0.77,"[0.66, 0.91]",0.002
+Education: Some College / Assoc.,1.36,"[1.24, 1.48]",< .001
+Education: Bachelor’s,1.63,"[1.48, 1.79]",< .001
+Education: Graduate,1.52,"[1.37, 1.69]",< .001
+Orientation: Gay/Lesbian (ref: Straight),1.85,"[1.57, 2.17]",< .001
+Orientation: Bisexual,3.31,"[2.96, 3.7]",< .001
+Orientation: Queer/Questioning,2.68,"[2.27, 3.17]",< .001
+Insurance: Uninsured (ref: Insured),2.49,"[2.26, 2.73]",< .001
+Year: 2021 (ref: 2020),0.96,"[0.86, 1.07]",0.457
+Year: 2022,1.15,"[1.03, 1.29]",0.013
+Year: 2023,1.36,"[1.22, 1.51]",< .001
+Year: 2024,1.42,"[1.28, 1.57]",< .001
+,,,

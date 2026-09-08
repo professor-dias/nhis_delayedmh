@@ -114,8 +114,7 @@ Code in this repository was drafted and iteratively developed with assistance fr
 
 ## Authors
 
-Noel Dias, working with Dr. Alyssa Falise
-*(formerly published as Noel Singh-Dias)*
+Noel Dias
 
 ## License
 
